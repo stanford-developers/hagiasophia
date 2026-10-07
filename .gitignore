@@ -1,0 +1,8 @@
+# macOS Finder metadata
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
